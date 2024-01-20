@@ -89,5 +89,9 @@ print(str(my_num) + " my favorvite number")
 my_num = -3.5
 print(abs(my_num))
 
-#power function
+#power function/ 4^5
 print(pow(4, 5))
+
+#max/min number function
+print(max(23, 34, 3, 53, 121, 5, 92))
+print(min(23, 34, 3, 53, 121, 5, 92))
