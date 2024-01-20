@@ -8,6 +8,7 @@ print("he was " + character_age + " years old")
 print("He really liked the name " + character_name + ",")
 print("but didn't like being " + character_age + ".")
 
+#---------------------------------------------
 #strings = plain text
 #Backslash n = \n insert a new line in the string
 print("Giraffe\nAcademy")
@@ -103,3 +104,17 @@ print(floor(5.7))
 #round the number to a interger
 print(round(5.7))
 print(ceil(5.7))
+
+#---------------------------------------------
+name = input("Enter you name: ")
+age = input("Enter your age: ")
+print("Hello " + name + "!"" You're " + age + "!")
+
+#---------------------------------------------
+#Buildig a Basic Calculator
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
+result = float(num1) + float(num2)
+
+print(result)
+
