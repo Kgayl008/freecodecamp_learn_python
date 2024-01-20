@@ -95,3 +95,11 @@ print(pow(4, 5))
 #max/min number function
 print(max(23, 34, 3, 53, 121, 5, 92))
 print(min(23, 34, 3, 53, 121, 5, 92))
+
+from math import*
+
+#lowest number
+print(floor(5.7))
+#round the number to a interger
+print(round(5.7))
+print(ceil(5.7))
